@@ -1,1 +1,0 @@
-Note: to play the game, open ISO2D.exe
